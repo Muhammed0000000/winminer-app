@@ -1,1 +1,0 @@
-# winminer-app
